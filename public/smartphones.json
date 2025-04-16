@@ -1,0 +1,178 @@
+[
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "price": 999,
+      "image": "./mobiles/pngimg.com - iphone_PNG5727.png"
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy S10",
+      "price": 749,
+      "image": "./mobiles/samsung-galaxy-s10-prism-front-6bx.png"
+    },
+    {
+      "id": 3,
+      "brand": "Oppo",
+      "model": "Oppo K1",
+      "price": 299,
+      "image": "./mobiles/871-8718123_oppo-mobile-png.png"
+    },
+    {
+      "id": 4,
+      "brand": "Realme",
+      "model": "Realme 7",
+      "price": 229,
+      "image": "https://www.pngall.com/wp-content/uploads/2016/05/Realme-PNG-Image.png"
+    },
+    {
+      "id": 5,
+      "brand": "Xiaomi",
+      "model": "Mi 4i",
+      "price": 199,
+      "image": "https://pluspng.com/img-png/xiaomi-png-xiaomi-mi-4i-android-smartphone-1000.png"
+    },
+    {
+      "id": 6,
+      "brand": "OnePlus",
+      "model": "OnePlus 6",
+      "price": 549,
+      "image": "https://purepng.com/public/uploads/large/purepng.com-oneplus-6smartphoneoneplusandroid-1701528431326qzq7k.png"
+    },
+    {
+      "id": 7,
+      "brand": "Apple",
+      "model": "iPhone 12",
+      "price": 899,
+      "image": "https://pngimg.com/uploads/iphone/iphone_PNG5730.png"
+    },
+    {
+      "id": 8,
+      "brand": "Samsung",
+      "model": "Galaxy A52",
+      "price": 420,
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-a525fzbhins/gallery/in-galaxy-a52-sm-a525-sm-a525fzbhins-368381872?$650_519_PNG$"
+    },
+    {
+      "id": 9,
+      "brand": "Oppo",
+      "model": "Oppo Reno 8",
+      "price": 380,
+      "image": "https://static-01.daraz.com.np/p/e727e54f00cc3708dcdf3ce5c630e6aa.jpg"
+    },
+    {
+      "id": 10,
+      "brand": "Realme",
+      "model": "Realme C35",
+      "price": 250,
+      "image": "https://i02.appmifile.com/mi-com-product/fly-birds/realme-c35-black.png"
+    },
+    {
+      "id": 11,
+      "brand": "Xiaomi",
+      "model": "Redmi Note 11",
+      "price": 275,
+      "image": "https://www.pngmart.com/files/22/Xiaomi-Redmi-Note-11-PNG-Isolated-HD.png"
+    },
+    {
+      "id": 12,
+      "brand": "OnePlus",
+      "model": "OnePlus Nord CE",
+      "price": 399,
+      "image": "https://www.oneplus.com/xman/assets/nord-ce2/assets/img/ksp1-phone.png"
+    },
+    {
+      "id": 13,
+      "brand": "Apple",
+      "model": "iPhone SE",
+      "price": 499,
+      "image": "https://pngimg.com/uploads/iphone/iphone_PNG5743.png"
+    },
+    {
+      "id": 14,
+      "brand": "Samsung",
+      "model": "Galaxy Note 10",
+      "price": 699,
+      "image": "https://www.pngmart.com/files/22/Samsung-Galaxy-Note-10-PNG-Photo.png"
+    },
+    {
+      "id": 15,
+      "brand": "Oppo",
+      "model": "Oppo A16",
+      "price": 180,
+      "image": "https://www.pngmart.com/files/22/Oppo-A16-PNG-Clipart.png"
+    },
+    {
+      "id": 16,
+      "brand": "Realme",
+      "model": "Realme 9i",
+      "price": 240,
+      "image": "https://fdn2.gsmarena.com/vv/pics/realme/realme-9i-1.jpg"
+    },
+    {
+      "id": 17,
+      "brand": "Xiaomi",
+      "model": "Redmi 10",
+      "price": 220,
+      "image": "https://www.mobiledokan.com/wp-content/uploads/2021/08/Xiaomi-Redmi-10.png"
+    },
+    {
+      "id": 18,
+      "brand": "OnePlus",
+      "model": "OnePlus 9",
+      "price": 699,
+      "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-9-1.jpg"
+    },
+    {
+      "id": 19,
+      "brand": "Apple",
+      "model": "iPhone 11",
+      "price": 799,
+      "image": "https://pngimg.com/uploads/iphone/iphone_PNG5732.png"
+    },
+    {
+      "id": 20,
+      "brand": "Samsung",
+      "model": "Galaxy M32",
+      "price": 300,
+      "image": "https://www.pngmart.com/files/22/Samsung-Galaxy-M32-PNG-Image.png"
+    },
+    {
+      "id": 21,
+      "brand": "Oppo",
+      "model": "Oppo F19 Pro",
+      "price": 280,
+      "image": "https://pngimg.com/uploads/oppo/oppo_PNG4.png"
+    },
+    {
+      "id": 22,
+      "brand": "Realme",
+      "model": "Realme GT Neo 3",
+      "price": 370,
+      "image": "https://i.gadgets360cdn.com/products/large/realme-gt-neo-3-456x800-1648036254.jpg"
+    },
+    {
+      "id": 23,
+      "brand": "Xiaomi",
+      "model": "Poco X3",
+      "price": 290,
+      "image": "https://www.mobiledokan.com/wp-content/uploads/2020/09/Xiaomi-Poco-X3.png"
+    },
+    {
+      "id": 24,
+      "brand": "OnePlus",
+      "model": "OnePlus 11R",
+      "price": 599,
+      "image": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-11r-1.jpg"
+    },
+    {
+      "id": 25,
+      "brand": "Apple",
+      "model": "iPhone 14 Pro",
+      "price": 1099,
+      "image": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-1.jpg"
+    }
+  ]
+  

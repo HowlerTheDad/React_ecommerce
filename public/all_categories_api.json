@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "Mobile Phones Product 1",
+    "category": "Electronics",
+    "subcategory": "Mobile Phones",
+    "price": 73.75,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Mobile+Phones+1"
+  },
+  {
+    "id": 2,
+    "name": "Mobile Phones Product 2",
+    "category": "Electronics",
+    "subcategory": "Mobile Phones",
+    "price": 147.71,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Mobile+Phones+2"
+  },
+  {
+    "id": 3,
+    "name": "Laptops Product 3",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "price": 214.35,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Laptops+3"
+  },
+  {
+    "id": 4,
+    "name": "Laptops Product 4",
+    "category": "Electronics",
+    "subcategory": "Laptops",
+    "price": 417.87,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Laptops+4"
+  },
+  {
+    "id": 5,
+    "name": "Headphones Product 5",
+    "category": "Electronics",
+    "subcategory": "Headphones",
+    "price": 24.32,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Headphones+5"
+  },
+  {
+    "id": 6,
+    "name": "Headphones Product 6",
+    "category": "Electronics",
+    "subcategory": "Headphones",
+    "price": 476.32,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Headphones+6"
+  },
+  {
+    "id": 7,
+    "name": "Smart Watches Product 7",
+    "category": "Electronics",
+    "subcategory": "Smart Watches",
+    "price": 119.71,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Smart+Watches+7"
+  },
+  {
+    "id": 8,
+    "name": "Smart Watches Product 8",
+    "category": "Electronics",
+    "subcategory": "Smart Watches",
+    "price": 463.34,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Smart+Watches+8"
+  },
+  {
+    "id": 9,
+    "name": "Cameras Product 9",
+    "category": "Electronics",
+    "subcategory": "Cameras",
+    "price": 267.35,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Cameras+9"
+  },
+  {
+    "id": 10,
+    "name": "Cameras Product 10",
+    "category": "Electronics",
+    "subcategory": "Cameras",
+    "price": 49.37,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Cameras+10"
+  },
+  {
+    "id": 11,
+    "name": "Men's Clothing Product 11",
+    "category": "Clothing",
+    "subcategory": "Men's Clothing",
+    "price": 46.75,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Men's+Clothing+11"
+  },
+  {
+    "id": 12,
+    "name": "Men's Clothing Product 12",
+    "category": "Clothing",
+    "subcategory": "Men's Clothing",
+    "price": 13.83,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Men's+Clothing+12"
+  },
+  {
+    "id": 13,
+    "name": "Women's Clothing Product 13",
+    "category": "Clothing",
+    "subcategory": "Women's Clothing",
+    "price": 494.86,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Women's+Clothing+13"
+  },
+  {
+    "id": 14,
+    "name": "Women's Clothing Product 14",
+    "category": "Clothing",
+    "subcategory": "Women's Clothing",
+    "price": 350.04,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Women's+Clothing+14"
+  },
+  {
+    "id": 15,
+    "name": "Kids' Clothing Product 15",
+    "category": "Clothing",
+    "subcategory": "Kids' Clothing",
+    "price": 174.13,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Kids'+Clothing+15"
+  },
+  {
+    "id": 16,
+    "name": "Kids' Clothing Product 16",
+    "category": "Clothing",
+    "subcategory": "Kids' Clothing",
+    "price": 21.56,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Kids'+Clothing+16"
+  },
+  {
+    "id": 17,
+    "name": "Accessories Product 17",
+    "category": "Clothing",
+    "subcategory": "Accessories",
+    "price": 475.15,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Accessories+17"
+  },
+  {
+    "id": 18,
+    "name": "Accessories Product 18",
+    "category": "Clothing",
+    "subcategory": "Accessories",
+    "price": 264.68,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Accessories+18"
+  },
+  {
+    "id": 19,
+    "name": "Handbags Product 19",
+    "category": "Bags",
+    "subcategory": "Handbags",
+    "price": 103.01,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Handbags+19"
+  },
+  {
+    "id": 20,
+    "name": "Handbags Product 20",
+    "category": "Bags",
+    "subcategory": "Handbags",
+    "price": 235.53,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Handbags+20"
+  },
+  {
+    "id": 21,
+    "name": "Backpacks Product 21",
+    "category": "Bags",
+    "subcategory": "Backpacks",
+    "price": 160.28,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Backpacks+21"
+  },
+  {
+    "id": 22,
+    "name": "Backpacks Product 22",
+    "category": "Bags",
+    "subcategory": "Backpacks",
+    "price": 473.57,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Backpacks+22"
+  },
+  {
+    "id": 23,
+    "name": "Travel Bags Product 23",
+    "category": "Bags",
+    "subcategory": "Travel Bags",
+    "price": 412.74,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Travel+Bags+23"
+  },
+  {
+    "id": 24,
+    "name": "Travel Bags Product 24",
+    "category": "Bags",
+    "subcategory": "Travel Bags",
+    "price": 368.34,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Travel+Bags+24"
+  },
+  {
+    "id": 25,
+    "name": "Laptop Bags Product 25",
+    "category": "Bags",
+    "subcategory": "Laptop Bags",
+    "price": 67.05,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Laptop+Bags+25"
+  },
+  {
+    "id": 26,
+    "name": "Laptop Bags Product 26",
+    "category": "Bags",
+    "subcategory": "Laptop Bags",
+    "price": 244.23,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Laptop+Bags+26"
+  },
+  {
+    "id": 27,
+    "name": "Fresh Vegetables Product 27",
+    "category": "Groceries",
+    "subcategory": "Fresh Vegetables",
+    "price": 63.85,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Fresh+Vegetables+27"
+  },
+  {
+    "id": 28,
+    "name": "Fresh Vegetables Product 28",
+    "category": "Groceries",
+    "subcategory": "Fresh Vegetables",
+    "price": 212.79,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Fresh+Vegetables+28"
+  },
+  {
+    "id": 29,
+    "name": "Fruits Product 29",
+    "category": "Groceries",
+    "subcategory": "Fruits",
+    "price": 217.89,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Fruits+29"
+  },
+  {
+    "id": 30,
+    "name": "Fruits Product 30",
+    "category": "Groceries",
+    "subcategory": "Fruits",
+    "price": 81.36,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Fruits+30"
+  },
+  {
+    "id": 31,
+    "name": "Dairy Products Product 31",
+    "category": "Groceries",
+    "subcategory": "Dairy Products",
+    "price": 490.05,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Dairy+Products+31"
+  },
+  {
+    "id": 32,
+    "name": "Dairy Products Product 32",
+    "category": "Groceries",
+    "subcategory": "Dairy Products",
+    "price": 367.62,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Dairy+Products+32"
+  },
+  {
+    "id": 33,
+    "name": "Beverages Product 33",
+    "category": "Groceries",
+    "subcategory": "Beverages",
+    "price": 273.66,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Beverages+33"
+  },
+  {
+    "id": 34,
+    "name": "Beverages Product 34",
+    "category": "Groceries",
+    "subcategory": "Beverages",
+    "price": 54.77,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Beverages+34"
+  },
+  {
+    "id": 35,
+    "name": "Snacks Product 35",
+    "category": "Groceries",
+    "subcategory": "Snacks",
+    "price": 423.26,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Snacks+35"
+  },
+  {
+    "id": 36,
+    "name": "Snacks Product 36",
+    "category": "Groceries",
+    "subcategory": "Snacks",
+    "price": 121.19,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Snacks+36"
+  },
+  {
+    "id": 37,
+    "name": "Refrigerators Product 37",
+    "category": "Home Appliances",
+    "subcategory": "Refrigerators",
+    "price": 196.67,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Refrigerators+37"
+  },
+  {
+    "id": 38,
+    "name": "Refrigerators Product 38",
+    "category": "Home Appliances",
+    "subcategory": "Refrigerators",
+    "price": 280.52,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Refrigerators+38"
+  },
+  {
+    "id": 39,
+    "name": "Washing Machines Product 39",
+    "category": "Home Appliances",
+    "subcategory": "Washing Machines",
+    "price": 257.91,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Washing+Machines+39"
+  },
+  {
+    "id": 40,
+    "name": "Washing Machines Product 40",
+    "category": "Home Appliances",
+    "subcategory": "Washing Machines",
+    "price": 184.12,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Washing+Machines+40"
+  },
+  {
+    "id": 41,
+    "name": "Microwave Ovens Product 41",
+    "category": "Home Appliances",
+    "subcategory": "Microwave Ovens",
+    "price": 217.26,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Microwave+Ovens+41"
+  },
+  {
+    "id": 42,
+    "name": "Microwave Ovens Product 42",
+    "category": "Home Appliances",
+    "subcategory": "Microwave Ovens",
+    "price": 351.48,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Microwave+Ovens+42"
+  },
+  {
+    "id": 43,
+    "name": "Air Conditioners Product 43",
+    "category": "Home Appliances",
+    "subcategory": "Air Conditioners",
+    "price": 251.1,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Air+Conditioners+43"
+  },
+  {
+    "id": 44,
+    "name": "Air Conditioners Product 44",
+    "category": "Home Appliances",
+    "subcategory": "Air Conditioners",
+    "price": 474.52,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Air+Conditioners+44"
+  },
+  {
+    "id": 45,
+    "name": "Skincare Product 45",
+    "category": "Beauty & Health",
+    "subcategory": "Skincare",
+    "price": 438.42,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Skincare+45"
+  },
+  {
+    "id": 46,
+    "name": "Skincare Product 46",
+    "category": "Beauty & Health",
+    "subcategory": "Skincare",
+    "price": 70.51,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Skincare+46"
+  },
+  {
+    "id": 47,
+    "name": "Makeup Product 47",
+    "category": "Beauty & Health",
+    "subcategory": "Makeup",
+    "price": 75.42,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Makeup+47"
+  },
+  {
+    "id": 48,
+    "name": "Makeup Product 48",
+    "category": "Beauty & Health",
+    "subcategory": "Makeup",
+    "price": 218.01,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Makeup+48"
+  },
+  {
+    "id": 49,
+    "name": "Haircare Product 49",
+    "category": "Beauty & Health",
+    "subcategory": "Haircare",
+    "price": 362.51,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Haircare+49"
+  },
+  {
+    "id": 50,
+    "name": "Haircare Product 50",
+    "category": "Beauty & Health",
+    "subcategory": "Haircare",
+    "price": 299.66,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Haircare+50"
+  },
+  {
+    "id": 51,
+    "name": "Fragrances Product 51",
+    "category": "Beauty & Health",
+    "subcategory": "Fragrances",
+    "price": 389.12,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Fragrances+51"
+  },
+  {
+    "id": 52,
+    "name": "Fragrances Product 52",
+    "category": "Beauty & Health",
+    "subcategory": "Fragrances",
+    "price": 368.99,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Fragrances+52"
+  },
+  {
+    "id": 53,
+    "name": "Fitness Equipment Product 53",
+    "category": "Sports & Outdoors",
+    "subcategory": "Fitness Equipment",
+    "price": 97.86,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Fitness+Equipment+53"
+  },
+  {
+    "id": 54,
+    "name": "Fitness Equipment Product 54",
+    "category": "Sports & Outdoors",
+    "subcategory": "Fitness Equipment",
+    "price": 489.19,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Fitness+Equipment+54"
+  },
+  {
+    "id": 55,
+    "name": "Cycling Product 55",
+    "category": "Sports & Outdoors",
+    "subcategory": "Cycling",
+    "price": 217.83,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Cycling+55"
+  },
+  {
+    "id": 56,
+    "name": "Cycling Product 56",
+    "category": "Sports & Outdoors",
+    "subcategory": "Cycling",
+    "price": 410.09,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Cycling+56"
+  },
+  {
+    "id": 57,
+    "name": "Camping Product 57",
+    "category": "Sports & Outdoors",
+    "subcategory": "Camping",
+    "price": 111.41,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Camping+57"
+  },
+  {
+    "id": 58,
+    "name": "Camping Product 58",
+    "category": "Sports & Outdoors",
+    "subcategory": "Camping",
+    "price": 19.44,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Camping+58"
+  },
+  {
+    "id": 59,
+    "name": "Outdoor Gear Product 59",
+    "category": "Sports & Outdoors",
+    "subcategory": "Outdoor Gear",
+    "price": 143.09,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Outdoor+Gear+59"
+  },
+  {
+    "id": 60,
+    "name": "Outdoor Gear Product 60",
+    "category": "Sports & Outdoors",
+    "subcategory": "Outdoor Gear",
+    "price": 265.63,
+    "image": "https://dummyimage.com/300x300/cccccc/000000&text=Outdoor+Gear+60"
+  }
+]

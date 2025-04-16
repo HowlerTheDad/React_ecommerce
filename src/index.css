@@ -1,0 +1,56 @@
+/* index.css or tailwind.css */
+@import "tailwindcss";
+/* Default light mode styles */
+#root {
+  background-color: #ffffff; /* Light background */
+  color: #333333; /* Light text color */
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Dark mode styles */
+#root.dark {
+  background-color: #0d0e0d; /* Dark background */
+  color: #ffffff; /* Dark text color */
+}
+
+
+
+
+
+/* Utility classes for dark mode if you need more custom styles */
+@layer utilities {
+  @keyframes blink {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+  }
+
+  .animate-blink {
+    animation: blink 0.8s step-end infinite;
+  }
+
+  @keyframes loading {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(250%);
+    }
+  }
+  .animate-loading-bar {
+    animation: loading 0.8s ease infinite;
+  }
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.glassy-backdrop {
+  backdrop-filter: blur(10px);
+  background: rgba(10, 10, 10, 0.8);
+  color:#ffffff;
+}

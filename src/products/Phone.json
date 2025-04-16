@@ -1,0 +1,18 @@
+[
+    {
+        "image": "../assets/mobiles/871-8718123_oppo-mobile-png.png",
+        "name": "Oppo",
+        "price": 1050
+    },
+    {
+        "image": "../assets/mobiles/Apple-iPhone-11-PNG-Image-Transparent-Background.png",
+        "name": "Iphone 11",
+        "price": 1050
+    },
+    {
+        "image": "../assets/mobiles/hDUtDK-black-xiaomi-redmi-transparent-picture.png",
+        "name": "Redmi",
+        "price": 1050
+    }
+    
+]
